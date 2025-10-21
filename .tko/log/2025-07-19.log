@@ -1,0 +1,59 @@
+2025-07-19 13:22:03, MOVE, v:1, k:triangulo, mode:PICK
+2025-07-19 13:22:06, MOVE, v:1, k:triangulo, mode:BACK
+2025-07-19 13:22:10, SELF, v:1, k:triangulo, rate:100, flow:5, edge:5, neat:5, cool:5, easy:2
+2025-07-19 13:22:15, SELF, v:1, k:treinando, rate:100, flow:2, edge:4, neat:2, cool:5, easy:3
+2025-07-19 13:22:20, SELF, v:1, k:eh_primo, rate:100, flow:2, edge:5
+2025-07-19 13:22:31, SELF, v:1, k:enesimo, rate:100, flow:5, edge:4
+2025-07-19 13:23:20, MOVE, v:1, k:pilha, mode:PICK
+2025-07-19 13:53:36, EXEC, v:1, k:pilha, mode:FULL, rate:0, size:91
+2025-07-19 13:53:37, EXEC, v:1, k:pilha, mode:FULL, rate:0
+2025-07-19 13:53:38, EXEC, v:1, k:pilha, mode:FULL, rate:0
+2025-07-19 13:53:38, EXEC, v:1, k:pilha, mode:FULL, rate:0
+2025-07-19 13:53:48, EXEC, v:1, k:pilha, mode:FULL, rate:0, size:91
+2025-07-19 13:53:51, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 13:54:36, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:91
+2025-07-19 13:55:27, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:91
+2025-07-19 13:55:48, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:91
+2025-07-19 13:57:53, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:91
+2025-07-19 13:57:56, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 13:57:57, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 13:57:58, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 13:58:07, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:91
+2025-07-19 13:58:09, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 13:58:52, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:91
+2025-07-19 13:58:54, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 13:59:17, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:91
+2025-07-19 14:04:34, EXEC, v:1, k:pilha, mode:LOCK, rate:100, size:91
+2025-07-19 14:14:39, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:106
+2025-07-19 14:14:40, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 14:14:41, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 14:15:10, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:106
+2025-07-19 14:18:36, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:106
+2025-07-19 14:20:52, EXEC, v:1, k:pilha, mode:LOCK, rate:0
+2025-07-19 14:21:10, EXEC, v:1, k:pilha, mode:LOCK, rate:0, size:106
+2025-07-19 14:21:46, MOVE, v:1, k:pilha, mode:BACK
+2025-07-19 14:21:48, MOVE, v:1, k:pilha, mode:PICK
+2025-07-19 14:21:51, EXEC, v:1, k:pilha, mode:FULL, rate:33
+2025-07-19 14:34:29, EXEC, v:1, k:pilha, mode:FULL, rate:0, size:106
+2025-07-19 14:34:32, EXEC, v:1, k:pilha, mode:FULL, rate:33
+2025-07-19 14:36:08, EXEC, v:1, k:pilha, mode:FULL, rate:33, size:106
+2025-07-19 14:37:31, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:106
+2025-07-19 14:41:09, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:114
+2025-07-19 14:41:39, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:114
+2025-07-19 14:43:37, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:114
+2025-07-19 14:43:40, EXEC, v:1, k:pilha, mode:FULL, rate:66
+2025-07-19 14:44:13, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:44:25, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:44:32, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:47:18, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:47:38, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:48:42, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:48:46, EXEC, v:1, k:pilha, mode:FULL, rate:66
+2025-07-19 14:49:58, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:51:38, EXEC, v:1, k:pilha, mode:FULL, rate:66, size:115
+2025-07-19 14:54:25, EXEC, v:1, k:pilha, mode:FULL, rate:100, size:116
+2025-07-19 14:54:26, MOVE, v:1, k:pilha, mode:BACK
+2025-07-19 14:54:32, SELF, v:1, k:pilha, rate:100, flow:6, edge:5
+2025-07-19 14:57:13, MOVE, v:1, k:chaves, mode:DOWN
+2025-07-19 14:57:15, MOVE, v:1, k:chaves, mode:PICK
+2025-07-19 23:35:33, MOVE, v:1, k:chaves, mode:BACK

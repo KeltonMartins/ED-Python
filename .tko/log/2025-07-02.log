@@ -1,0 +1,149 @@
+2025-07-02 00:33:40, MOVE, v:1, k:lista_d3, mode:PICK
+2025-07-02 00:33:56, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:33:57, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:33:58, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:33:59, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:34:01, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:34:03, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:34:04, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:34:04, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:34:31, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:34:51, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:125
+2025-07-02 00:34:51, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:125
+2025-07-02 00:34:52, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:125
+2025-07-02 00:34:53, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:34:54, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:35:08, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 00:43:54, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:135
+2025-07-02 00:43:55, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:47:39, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 00:47:40, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:48:04, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 00:48:05, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 00:48:05, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 00:48:06, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 00:49:11, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:133
+2025-07-02 00:49:16, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:49:20, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:55:16, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:138
+2025-07-02 00:55:17, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:56:26, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:138
+2025-07-02 00:56:29, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:57:01, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:138
+2025-07-02 00:57:02, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 00:59:24, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:136
+2025-07-02 00:59:25, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:00:41, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:131
+2025-07-02 01:00:42, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:00:43, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:00:45, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:05:34, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:132
+2025-07-02 01:09:14, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:09:15, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:131
+2025-07-02 01:09:16, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:09:21, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:132
+2025-07-02 01:09:35, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:135
+2025-07-02 01:09:36, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:09:45, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:135
+2025-07-02 01:09:46, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:09:47, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:09:48, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:10:26, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:139
+2025-07-02 01:10:27, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:10:28, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:10:52, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:132
+2025-07-02 01:10:53, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:10:54, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:11:39, EXEC, v:1, k:lista_d3, mode:FULL, rate:25
+2025-07-02 01:13:26, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 01:13:27, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:13:34, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:133
+2025-07-02 01:14:38, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:133
+2025-07-02 01:14:45, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:133
+2025-07-02 01:14:50, EXEC, v:1, k:lista_d3, mode:FULL, rate:25
+2025-07-02 01:14:57, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:133
+2025-07-02 01:15:03, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:133
+2025-07-02 01:15:38, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:134
+2025-07-02 01:15:53, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:135
+2025-07-02 01:16:48, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 01:16:49, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:133
+2025-07-02 01:16:50, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:16:55, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:134
+2025-07-02 01:23:16, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:147
+2025-07-02 01:23:17, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:23:18, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:23:34, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:147
+2025-07-02 01:24:31, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:148
+2025-07-02 01:24:56, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:25:12, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:148
+2025-07-02 01:25:13, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:148
+2025-07-02 01:25:22, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:148
+2025-07-02 01:25:24, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:25:38, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:25:41, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:148
+2025-07-02 01:26:05, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:148
+2025-07-02 01:26:07, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:26:37, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:149
+2025-07-02 01:26:39, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:26:47, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:26:48, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:149
+2025-07-02 01:26:50, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:27:14, EXEC, v:1, k:lista_d3, mode:LOCK, rate:100, size:149
+2025-07-02 01:27:40, EXEC, v:1, k:lista_d3, mode:FULL, rate:25, size:149
+2025-07-02 01:28:31, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:149
+2025-07-02 01:28:32, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:28:33, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:30:42, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:151
+2025-07-02 01:37:55, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:162
+2025-07-02 01:37:56, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:38:08, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:162
+2025-07-02 01:38:23, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:164
+2025-07-02 01:38:25, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:39:03, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:165
+2025-07-02 01:39:04, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:48:08, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:185
+2025-07-02 01:48:09, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:48:10, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:49:33, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:185
+2025-07-02 01:49:34, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:49:35, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:49:54, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:185
+2025-07-02 01:50:12, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:185
+2025-07-02 01:50:12, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:50:37, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:185
+2025-07-02 01:50:38, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:185
+2025-07-02 01:50:39, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:53:10, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0, size:185
+2025-07-02 01:53:13, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:53:15, EXEC, v:1, k:lista_d3, mode:LOCK, rate:0
+2025-07-02 01:53:28, EXEC, v:1, k:lista_d3, mode:LOCK, rate:100, size:185
+2025-07-02 01:53:37, MOVE, v:1, k:lista_d3, mode:PICK
+2025-07-02 01:53:48, EXEC, v:1, k:lista_d3, mode:FULL, rate:50
+2025-07-02 01:55:11, EXEC, v:1, k:lista_d3, mode:FULL, rate:50, size:181
+2025-07-02 01:55:16, EXEC, v:1, k:lista_d3, mode:FULL, rate:50
+2025-07-02 01:55:52, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:55:54, EXEC, v:1, k:lista_d3, mode:FULL, rate:75, size:182
+2025-07-02 01:55:55, EXEC, v:1, k:lista_d3, mode:FULL, rate:75, size:182
+2025-07-02 01:56:35, EXEC, v:1, k:lista_d3, mode:FULL, rate:75, size:183
+2025-07-02 01:58:15, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:58:15, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:58:16, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:58:24, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:58:25, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:28, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:29, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:58:30, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:30, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:47, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:58:47, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:48, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:49, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:52, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:58:53, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:59:05, EXEC, v:1, k:lista_d3, mode:FULL, rate:0, size:183
+2025-07-02 01:59:06, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:59:07, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:59:13, EXEC, v:1, k:lista_d3, mode:FULL, rate:0
+2025-07-02 01:59:14, EXEC, v:1, k:lista_d3, mode:FULL, rate:100, size:180
+2025-07-02 01:59:16, MOVE, v:1, k:lista_d3, mode:BACK
+2025-07-02 01:59:32, SELF, v:1, k:lista_d3, rate:100, flow:2, edge:4

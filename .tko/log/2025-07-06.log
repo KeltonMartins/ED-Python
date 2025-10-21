@@ -1,0 +1,31 @@
+2025-07-06 14:36:02, SELF, v:1, k:dfs_bfs_bak, rate:100, flow:6, edge:5
+2025-07-06 14:38:37, MOVE, v:1, k:pilha, mode:DOWN
+2025-07-06 14:38:37, MOVE, v:1, k:pilha, mode:PICK
+2025-07-06 14:39:35, MOVE, v:1, k:pilha, mode:BACK
+2025-07-06 11:44:16, MOVE, v:1, k:priminhos, mode:DOWN
+2025-07-06 11:44:17, MOVE, v:1, k:priminhos, mode:PICK
+2025-07-06 13:01:34, EXEC, v:1, k:priminhos, mode:LOCK, rate:0, size:32
+2025-07-06 13:01:35, EXEC, v:1, k:priminhos, mode:LOCK, rate:0
+2025-07-06 13:01:49, EXEC, v:1, k:priminhos, mode:FULL, rate:0
+2025-07-06 13:04:17, EXEC, v:1, k:priminhos, mode:FULL, rate:0, size:32
+2025-07-06 13:06:02, EXEC, v:1, k:priminhos, mode:FULL, rate:0, size:31
+2025-07-06 13:06:08, EXEC, v:1, k:priminhos, mode:FULL, rate:0
+2025-07-06 13:10:26, MOVE, v:1, k:priminhos, mode:PICK
+2025-07-06 13:12:54, MOVE, v:1, k:priminhos, mode:PICK
+2025-07-06 13:14:25, MOVE, v:1, k:priminhos, mode:PICK
+2025-07-06 13:16:41, EXEC, v:1, k:priminhos, mode:FULL, rate:25, size:30
+2025-07-06 13:19:34, EXEC, v:1, k:priminhos, mode:FULL, rate:0, size:35
+2025-07-06 13:19:51, EXEC, v:1, k:priminhos, mode:FULL, rate:0, size:36
+2025-07-06 13:21:22, EXEC, v:1, k:priminhos, mode:FULL, rate:0, size:38
+2025-07-06 13:21:40, EXEC, v:1, k:priminhos, mode:FULL, rate:25, size:38
+2025-07-06 13:21:55, EXEC, v:1, k:priminhos, mode:FULL, rate:100, size:39
+2025-07-06 13:21:59, MOVE, v:1, k:priminhos, mode:BACK
+2025-07-06 13:22:05, SELF, v:1, k:priminhos, rate:100, flow:6, edge:5
+2025-07-06 13:59:58, MOVE, v:1, k:queimada, mode:PICK
+2025-07-06 15:01:54, MOVE, v:1, k:queimada, mode:BACK
+2025-07-06 15:02:25, SELF, v:1, k:cercado, rate:100, flow:6, edge:5
+2025-07-06 15:24:39, MOVE, v:1, k:queimada, mode:PICK
+2025-07-06 15:26:52, MOVE, v:1, k:queimada, mode:BACK
+2025-07-06 15:27:01, SELF, v:1, k:pintura, rate:100, flow:6, edge:5
+2025-07-06 15:34:50, SELF, v:1, k:longest
+2025-07-06 16:51:55, SELF, v:1, k:longest, rate:90, flow:2, edge:4

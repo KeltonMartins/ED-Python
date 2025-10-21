@@ -1,0 +1,118 @@
+2025-07-21 11:18:07, MOVE, v:1, k:treinando, mode:PICK
+2025-07-21 11:20:35, MOVE, v:1, k:treinando, mode:BACK
+2025-07-21 11:21:00, SELF, v:1, k:treinando, rate:100, flow:4, edge:4, neat:2, cool:5, easy:3
+2025-07-21 11:23:25, MOVE, v:1, k:wordsearch, mode:PICK
+2025-07-21 11:24:21, EXEC, v:1, k:wordsearch, mode:FULL, rate:0
+2025-07-21 11:24:24, EXEC, v:1, k:wordsearch, mode:FULL, rate:0
+2025-07-21 11:24:28, EXEC, v:1, k:wordsearch, mode:FULL, rate:0
+2025-07-21 11:24:35, EXEC, v:1, k:wordsearch, mode:FULL, rate:0
+2025-07-21 11:25:02, MOVE, v:1, k:permutacoes, mode:PICK
+2025-07-21 12:00:12, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0, size:6
+2025-07-21 12:00:13, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:00:13, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:00:14, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:00:15, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:00:39, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:00:49, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:00:49, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:00:50, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:02, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:03, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:04, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:17, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:18, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:19, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:19, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:20, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:20, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:01:22, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:00, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:01, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:04, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:05, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:34, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:34, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:35, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:35, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:50, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:51, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:51, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:03:52, EXEC, v:1, k:permutacoes, mode:LOCK, rate:0
+2025-07-21 12:04:34, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:04:35, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:05:12, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:05:27, MOVE, v:1, k:permutacoes, mode:PICK
+2025-07-21 12:05:30, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:05:31, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:17, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:18, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:19, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:19, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:19, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:22, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:24, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:24, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:24, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:25, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:25, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:25, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:25, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:26, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:26, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:26, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:26, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:26, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:26, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:32, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:32, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:33, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:06:58, EXEC, v:1, k:permutacoes, mode:FULL, rate:28, size:22
+2025-07-21 12:06:58, EXEC, v:1, k:permutacoes, mode:FULL, rate:28, size:22
+2025-07-21 12:06:59, EXEC, v:1, k:permutacoes, mode:FULL, rate:28, size:22
+2025-07-21 12:06:59, EXEC, v:1, k:permutacoes, mode:FULL, rate:28, size:22
+2025-07-21 12:08:02, MOVE, v:1, k:permutacoes, mode:PICK
+2025-07-21 12:08:29, EXEC, v:1, k:permutacoes, mode:FULL, rate:28, size:21
+2025-07-21 12:08:41, MOVE, v:1, k:permutacoes, mode:PICK
+2025-07-21 12:08:45, EXEC, v:1, k:permutacoes, mode:FULL, rate:28
+2025-07-21 12:11:27, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:21
+2025-07-21 12:11:28, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:11:57, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:21
+2025-07-21 12:11:57, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:21
+2025-07-21 12:11:58, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:21
+2025-07-21 12:11:58, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:21
+2025-07-21 12:15:16, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:29
+2025-07-21 12:15:17, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:15:18, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:15:32, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:29
+2025-07-21 12:15:32, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:29
+2025-07-21 12:15:33, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:29
+2025-07-21 12:15:51, EXEC, v:1, k:permutacoes, mode:FULL, rate:0, size:29
+2025-07-21 12:15:52, EXEC, v:1, k:permutacoes, mode:FULL, rate:0
+2025-07-21 12:16:09, EXEC, v:1, k:permutacoes, mode:FULL, rate:85, size:29
+2025-07-21 12:16:10, EXEC, v:1, k:permutacoes, mode:FULL, rate:100
+2025-07-21 12:16:16, MOVE, v:1, k:permutacoes, mode:BACK
+2025-07-21 12:16:28, SELF, v:1, k:permutacoes, rate:100, flow:4, edge:4
+2025-07-21 12:17:28, MOVE, v:1, k:prin_list2, mode:DOWN
+2025-07-21 12:17:29, MOVE, v:1, k:prin_list2, mode:PICK
+2025-07-21 12:29:11, EXEC, v:1, k:prin_list2, mode:FULL, rate:0, size:60
+2025-07-21 12:29:13, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:29:13, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:30:40, EXEC, v:1, k:prin_list2, mode:FULL, rate:0, size:60
+2025-07-21 12:30:42, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:30:45, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:31:13, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:32:17, EXEC, v:1, k:prin_list2, mode:FULL, rate:30, size:60
+2025-07-21 12:34:12, EXEC, v:1, k:prin_list2, mode:FULL, rate:0, size:64
+2025-07-21 12:34:14, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:34:15, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:34:31, EXEC, v:1, k:prin_list2, mode:FULL, rate:0, size:64
+2025-07-21 12:34:32, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:34:46, EXEC, v:1, k:prin_list2, mode:FULL, rate:0, size:64
+2025-07-21 12:34:47, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:34:59, EXEC, v:1, k:prin_list2, mode:FULL, rate:0, size:64
+2025-07-21 12:35:00, EXEC, v:1, k:prin_list2, mode:FULL, rate:0
+2025-07-21 12:35:07, EXEC, v:1, k:prin_list2, mode:FULL, rate:0, size:64
+2025-07-21 12:36:00, EXEC, v:1, k:prin_list2, mode:FULL, rate:30, size:64
+2025-07-21 12:36:26, EXEC, v:1, k:prin_list2, mode:FULL, rate:100, size:64
+2025-07-21 12:36:28, MOVE, v:1, k:prin_list2, mode:BACK
+2025-07-21 12:36:34, SELF, v:1, k:prin_list2, rate:100, flow:5, edge:4

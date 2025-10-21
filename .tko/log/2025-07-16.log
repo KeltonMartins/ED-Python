@@ -1,0 +1,21 @@
+2025-07-16 08:26:21, MOVE, v:1, k:pilhado, mode:PICK
+2025-07-16 08:26:32, EXEC, v:1, k:pilhado, mode:FULL, rate:0, size:127
+2025-07-16 08:26:47, EXEC, v:1, k:pilhado, mode:FULL, rate:0
+2025-07-16 08:33:47, EXEC, v:1, k:pilhado, mode:FULL, rate:0, size:127
+2025-07-16 08:33:50, EXEC, v:1, k:pilhado, mode:FULL, rate:0
+2025-07-16 08:35:08, EXEC, v:1, k:pilhado, mode:FULL, rate:0, size:143
+2025-07-16 08:35:11, EXEC, v:1, k:pilhado, mode:FULL, rate:0
+2025-07-16 08:37:37, EXEC, v:1, k:pilhado, mode:FULL, rate:100, size:143
+2025-07-16 08:38:24, EXEC, v:1, k:pilhado, mode:FULL, rate:0, size:127
+2025-07-16 08:40:17, SELF, v:1, k:pilhado
+2025-07-16 08:40:19, MOVE, v:1, k:pilhado, mode:PICK
+2025-07-16 08:40:27, EXEC, v:1, k:pilhado, mode:FULL, rate:0, size:143
+2025-07-16 08:40:31, EXEC, v:1, k:pilhado, mode:FULL, rate:100
+2025-07-16 08:40:33, MOVE, v:1, k:pilhado, mode:BACK
+2025-07-16 08:40:46, SELF, v:1, k:pilhado, rate:100, flow:4, edge:4
+2025-07-16 10:05:48, MOVE, v:1, k:queimando, mode:PICK
+2025-07-16 10:17:59, MOVE, v:1, k:queimando, mode:BACK
+2025-07-16 10:18:03, MOVE, v:1, k:queimando, mode:PICK
+2025-07-16 12:10:31, MOVE, v:1, k:queimando, mode:BACK
+2025-07-16 12:10:45, SELF, v:1, k:rotten
+2025-07-16 12:11:02, SELF, v:1, k:rotten, rate:100, flow:4, edge:4

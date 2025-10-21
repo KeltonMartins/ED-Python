@@ -1,0 +1,33 @@
+2025-07-01 17:35:15, MOVE, v:1, k:serial, mode:DOWN
+2025-07-01 17:35:16, MOVE, v:1, k:serial, mode:PICK
+2025-07-01 17:48:57, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:48:58, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:48:59, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:48:59, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:49:00, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:49:01, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:49:01, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:49:02, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:49:20, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:49:20, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:49:21, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:49:21, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:49:52, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:49:53, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:49:54, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:49:59, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:50:00, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:50:24, MOVE, v:1, k:serial, mode:PICK
+2025-07-01 17:50:25, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:50:26, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:50:27, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:50:27, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:50:27, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:50:54, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:50:54, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:50:55, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:50:56, EXEC, v:1, k:serial, mode:FULL, rate:0
+2025-07-01 17:51:06, EXEC, v:1, k:serial, mode:FULL, rate:0, size:132
+2025-07-01 17:51:07, EXEC, v:1, k:serial, mode:FULL, rate:100, size:132
+2025-07-01 17:51:16, MOVE, v:1, k:serial, mode:BACK
+2025-07-01 17:51:35, SELF, v:1, k:serial, rate:100, flow:5, edge:4

@@ -1,0 +1,29 @@
+2025-07-18 20:09:43, MOVE, v:1, k:wordsearch, mode:PICK
+2025-07-18 20:09:53, EXEC, v:1, k:wordsearch, mode:FULL, rate:0
+2025-07-18 20:10:00, MOVE, v:1, k:wordsearch, mode:BACK
+2025-07-18 20:10:09, SELF, v:1, k:wordsearch, flow:6, edge:5
+2025-07-18 20:10:12, SELF, v:1, k:wordsearch, flow:6, edge:5
+2025-07-18 20:10:13, MOVE, v:1, k:wordsearch, mode:PICK
+2025-07-18 20:10:16, EXEC, v:1, k:wordsearch, mode:FULL, rate:50
+2025-07-18 20:10:18, MOVE, v:1, k:wordsearch, mode:BACK
+2025-07-18 20:10:22, SELF, v:1, k:wordsearch, rate:50, flow:6, edge:5
+2025-07-18 20:10:31, MOVE, v:1, k:distancia, mode:PICK
+2025-07-18 20:10:46, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:71
+2025-07-18 20:11:37, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:71
+2025-07-18 20:12:11, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:71
+2025-07-18 20:25:01, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:71
+2025-07-18 20:28:26, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:74
+2025-07-18 20:28:41, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:71
+2025-07-18 20:32:46, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:90
+2025-07-18 20:32:49, EXEC, v:1, k:distancia, mode:FULL, rate:0
+2025-07-18 20:57:14, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:86
+2025-07-18 20:57:15, EXEC, v:1, k:distancia, mode:FULL, rate:0
+2025-07-18 21:02:11, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:92
+2025-07-18 21:03:09, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:86
+2025-07-18 21:03:19, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:91
+2025-07-18 21:07:10, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:85
+2025-07-18 21:07:37, EXEC, v:1, k:distancia, mode:FULL, rate:0, size:85
+2025-07-18 21:17:38, EXEC, v:1, k:distancia, mode:FULL, rate:100, size:77
+2025-07-18 22:41:59, MOVE, v:1, k:distancia, mode:BACK
+2025-07-18 22:42:08, SELF, v:1, k:distancia, rate:100, flow:4, edge:4
+2025-07-18 22:42:19, SELF, v:1, k:distancia, rate:100, flow:5, edge:4

@@ -1,0 +1,17 @@
+2025-07-13 16:03:44, SELF, v:1, k:mumia, rate:100, flow:5, edge:5
+2025-07-13 16:04:23, SELF, v:1, k:wordsearch, rate:50, flow:5, edge:4
+2025-07-13 16:04:25, MOVE, v:1, k:wordsearch, mode:PICK
+2025-07-13 16:04:36, EXEC, v:1, k:wordsearch, mode:FULL, rate:0
+2025-07-13 16:04:38, EXEC, v:1, k:wordsearch, mode:FULL, rate:50
+2025-07-13 16:04:38, MOVE, v:1, k:wordsearch, mode:BACK
+2025-07-13 16:04:50, SELF, v:1, k:wordsearch, rate:50, flow:4, edge:4
+2025-07-13 16:04:57, SELF, v:1, k:wordsearch, rate:50, flow:4, edge:4
+2025-07-13 16:21:23, MOVE, v:1, k:editor, mode:PICK
+2025-07-13 16:22:13, MOVE, v:1, k:editor, mode:BACK
+2025-07-13 16:22:15, MOVE, v:1, k:editorint, mode:PICK
+2025-07-13 16:22:20, MOVE, v:1, k:editorint, mode:BACK
+2025-07-13 16:22:33, SELF, v:1, k:editorint, rate:100, flow:4, edge:4
+2025-07-13 16:22:38, MOVE, v:1, k:editor, mode:PICK
+2025-07-13 17:46:17, MOVE, v:1, k:editor, mode:BACK
+2025-07-13 17:49:44, MOVE, v:1, k:fractais, mode:PICK
+2025-07-13 17:49:46, MOVE, v:1, k:fractais, mode:BACK

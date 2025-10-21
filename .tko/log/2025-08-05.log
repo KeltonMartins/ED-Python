@@ -1,0 +1,129 @@
+2025-08-05 08:20:25, MOVE, v:1, k:soma, mode:PICK
+2025-08-05 08:32:54, MOVE, v:1, k:soma, mode:BACK
+2025-08-05 08:32:57, MOVE, v:1, k:clonar, mode:PICK
+2025-08-05 08:33:17, MOVE, v:1, k:clonar, mode:BACK
+2025-08-05 08:33:22, MOVE, v:1, k:soma, mode:PICK
+2025-08-05 08:33:37, EXEC, v:1, k:soma, mode:FULL, rate:100, size:70
+2025-08-05 08:33:40, MOVE, v:1, k:soma, mode:BACK
+2025-08-05 08:33:45, SELF, v:1, k:soma, rate:100, flow:6, edge:5
+2025-08-05 08:33:53, MOVE, v:1, k:inverter, mode:DOWN
+2025-08-05 08:33:54, MOVE, v:1, k:inverter, mode:PICK
+2025-08-05 08:36:50, EXEC, v:1, k:inverter, mode:FULL, rate:100, size:78
+2025-08-05 08:36:51, MOVE, v:1, k:inverter, mode:BACK
+2025-08-05 08:36:58, SELF, v:1, k:inverter, rate:100, flow:6, edge:5
+2025-08-05 08:37:03, MOVE, v:1, k:altura, mode:DOWN
+2025-08-05 08:37:04, MOVE, v:1, k:altura, mode:PICK
+2025-08-05 08:46:50, EXEC, v:1, k:altura, mode:FULL, rate:100, size:140
+2025-08-05 08:55:43, MOVE, v:1, k:altura, mode:BACK
+2025-08-05 08:55:53, SELF, v:1, k:altura, rate:100, flow:2, edge:4
+2025-08-05 08:56:03, MOVE, v:1, k:compare, mode:DOWN
+2025-08-05 08:56:10, MOVE, v:1, k:compare, mode:PICK
+2025-08-05 08:57:05, EXEC, v:1, k:compare, mode:FULL, rate:100, size:103
+2025-08-05 08:57:13, MOVE, v:1, k:compare, mode:BACK
+2025-08-05 08:57:23, SELF, v:1, k:compare, rate:100, flow:6, edge:5
+2025-08-05 08:57:43, MOVE, v:1, k:arvore-path, mode:DOWN
+2025-08-05 08:57:44, MOVE, v:1, k:arvore-path, mode:PICK
+2025-08-05 09:02:25, EXEC, v:1, k:arvore-path, mode:FULL, rate:87, size:99
+2025-08-05 09:02:56, EXEC, v:1, k:arvore-path, mode:FULL, rate:50, size:99
+2025-08-05 09:03:04, EXEC, v:1, k:arvore-path, mode:FULL, rate:87, size:99
+2025-08-05 09:08:10, EXEC, v:1, k:arvore-path, mode:FULL, rate:50, size:107
+2025-08-05 09:08:38, EXEC, v:1, k:arvore-path, mode:FULL, rate:87, size:99
+2025-08-05 09:11:24, EXEC, v:1, k:arvore-path, mode:FULL, rate:100, size:109
+2025-08-05 09:11:25, MOVE, v:1, k:arvore-path, mode:BACK
+2025-08-05 09:11:31, SELF, v:1, k:arvore-path, rate:100, flow:6, edge:5
+2025-08-05 09:42:33, MOVE, v:1, k:bst_insert, mode:DOWN
+2025-08-05 09:42:34, MOVE, v:1, k:bst_insert, mode:PICK
+2025-08-05 13:08:43, EXEC, v:1, k:bst_insert, mode:FULL, rate:0, size:84
+2025-08-05 13:08:45, EXEC, v:1, k:bst_insert, mode:FULL, rate:100
+2025-08-05 13:10:47, MOVE, v:1, k:bst_insert, mode:BACK
+2025-08-05 13:10:55, SELF, v:1, k:bst_insert, rate:100, flow:2, edge:4
+2025-08-05 13:11:54, MOVE, v:1, k:bst_serial, mode:DOWN
+2025-08-05 13:11:55, MOVE, v:1, k:bst_serial, mode:PICK
+2025-08-05 13:12:09, MOVE, v:1, k:bst_serial, mode:BACK
+2025-08-05 13:12:13, MOVE, v:1, k:bst_serial, mode:PICK
+2025-08-05 13:20:45, EXEC, v:1, k:bst_serial, mode:FULL, rate:0, size:74
+2025-08-05 13:38:46, EXEC, v:1, k:bst_serial, mode:FULL, rate:0, size:104
+2025-08-05 13:38:49, EXEC, v:1, k:bst_serial, mode:FULL, rate:0
+2025-08-05 13:40:04, EXEC, v:1, k:bst_serial, mode:FULL, rate:0, size:103
+2025-08-05 13:41:58, EXEC, v:1, k:bst_serial, mode:FULL, rate:100, size:103
+2025-08-05 13:42:07, MOVE, v:1, k:bst_serial, mode:BACK
+2025-08-05 13:42:18, SELF, v:1, k:bst_serial, rate:100, flow:2, edge:4
+2025-08-05 13:42:24, SELF, v:1, k:bst_serial, rate:100, flow:4, edge:4
+2025-08-05 13:42:27, SELF, v:1, k:bst_serial, rate:100, flow:4, edge:4
+2025-08-05 13:42:37, MOVE, v:1, k:bst_remove, mode:DOWN
+2025-08-05 13:42:41, MOVE, v:1, k:bst_remove, mode:PICK
+2025-08-05 13:46:32, EXEC, v:1, k:bst_remove, mode:FULL, rate:12, size:98
+2025-08-05 14:28:05, EXEC, v:1, k:bst_remove, mode:FULL, rate:12, size:130
+2025-08-05 14:28:10, EXEC, v:1, k:bst_remove, mode:FULL, rate:12
+2025-08-05 14:28:21, EXEC, v:1, k:bst_remove, mode:FULL, rate:25, size:127
+2025-08-05 14:28:44, EXEC, v:1, k:bst_remove, mode:FULL, rate:25
+2025-08-05 14:29:30, EXEC, v:1, k:bst_remove, mode:FULL, rate:50, size:127
+2025-08-05 14:31:01, EXEC, v:1, k:bst_remove, mode:FULL, rate:100, size:127
+2025-08-05 14:31:03, MOVE, v:1, k:bst_remove, mode:BACK
+2025-08-05 14:31:26, SELF, v:1, k:bst_remove, rate:100, flow:5, edge:4
+2025-08-05 14:31:47, SELF, v:1, k:bst_remove, rate:100, flow:4, edge:4
+2025-08-05 14:32:03, MOVE, v:1, k:formatada, mode:PICK
+2025-08-05 14:38:19, EXEC, v:1, k:formatada, mode:FULL, rate:28, size:97
+2025-08-05 14:38:45, EXEC, v:1, k:formatada, mode:FULL, rate:28, size:96
+2025-08-05 14:39:39, EXEC, v:1, k:formatada, mode:FULL, rate:28, size:97
+2025-08-05 14:41:05, EXEC, v:1, k:formatada, mode:FULL, rate:28, size:96
+2025-08-05 14:41:28, EXEC, v:1, k:formatada, mode:FULL, rate:28, size:97
+2025-08-05 14:42:23, EXEC, v:1, k:formatada, mode:FULL, rate:28, size:97
+2025-08-05 14:42:57, EXEC, v:1, k:formatada, mode:FULL, rate:100, size:97
+2025-08-05 14:42:58, MOVE, v:1, k:formatada, mode:BACK
+2025-08-05 14:43:01, SELF, v:1, k:formatada, rate:100, flow:6, edge:5
+2025-08-05 14:43:06, MOVE, v:1, k:serial, mode:PICK
+2025-08-05 14:43:30, MOVE, v:1, k:serial, mode:BACK
+2025-08-05 14:43:35, MOVE, v:1, k:clonar, mode:PICK
+2025-08-05 14:45:01, EXEC, v:1, k:clonar, mode:FULL, rate:16, size:81
+2025-08-05 14:46:02, EXEC, v:1, k:clonar, mode:FULL, rate:16, size:83
+2025-08-05 14:46:24, EXEC, v:1, k:clonar, mode:FULL, rate:100, size:83
+2025-08-05 14:46:27, MOVE, v:1, k:clonar, mode:BACK
+2025-08-05 14:46:37, SELF, v:1, k:clonar, rate:100, flow:6, edge:5
+2025-08-05 14:46:49, MOVE, v:1, k:altura, mode:PICK
+2025-08-05 14:47:25, MOVE, v:1, k:altura, mode:BACK
+2025-08-05 14:47:28, MOVE, v:1, k:bst_insert, mode:PICK
+2025-08-05 14:47:49, EXEC, v:1, k:bst_insert, mode:FULL, rate:100
+2025-08-05 14:47:50, MOVE, v:1, k:bst_insert, mode:BACK
+2025-08-05 14:47:53, SELF, v:1, k:bst_insert, rate:100, flow:6, edge:5
+2025-08-05 14:47:59, MOVE, v:1, k:altura, mode:PICK
+2025-08-05 14:48:00, MOVE, v:1, k:altura, mode:BACK
+2025-08-05 14:48:03, MOVE, v:1, k:bst_serial, mode:PICK
+2025-08-05 14:48:21, MOVE, v:1, k:bst_serial, mode:BACK
+2025-08-05 14:50:28, MOVE, v:1, k:apagando, mode:PICK
+2025-08-05 14:50:30, MOVE, v:1, k:apagando, mode:BACK
+2025-08-05 14:50:41, SELF, v:1, k:apagando, rate:100, flow:5, edge:4
+2025-08-05 14:51:12, MOVE, v:1, k:eh_primo, mode:PICK
+2025-08-05 14:51:54, MOVE, v:1, k:eh_primo, mode:BACK
+2025-08-05 14:52:03, SELF, v:1, k:eh_primo, rate:100, flow:6, edge:5
+2025-08-05 14:52:07, MOVE, v:1, k:enesimo, mode:PICK
+2025-08-05 14:52:12, MOVE, v:1, k:enesimo, mode:BACK
+2025-08-05 14:52:15, SELF, v:1, k:enesimo, rate:100, flow:6, edge:5
+2025-08-05 14:52:22, MOVE, v:1, k:triangulo, mode:PICK
+2025-08-05 14:52:31, MOVE, v:1, k:triangulo, mode:BACK
+2025-08-05 14:52:37, SELF, v:1, k:triangulo, rate:100, flow:5, edge:4, neat:5, cool:5, easy:2
+2025-08-05 14:52:57, MOVE, v:1, k:wordsearch, mode:PICK
+2025-08-05 14:53:01, EXEC, v:1, k:wordsearch, mode:FULL, rate:50
+2025-08-05 14:53:01, MOVE, v:1, k:wordsearch, mode:BACK
+2025-08-05 14:53:05, SELF, v:1, k:wordsearch, rate:50, flow:6, edge:5
+2025-08-05 14:53:06, MOVE, v:1, k:subset_sum, mode:PICK
+2025-08-05 14:53:07, MOVE, v:1, k:subset_sum, mode:BACK
+2025-08-05 14:53:10, MOVE, v:1, k:subset_sum, mode:PICK
+2025-08-05 14:53:27, MOVE, v:1, k:subset_sum, mode:BACK
+2025-08-05 14:54:57, MOVE, v:1, k:sudoku, mode:DOWN
+2025-08-05 14:54:57, MOVE, v:1, k:sudoku, mode:PICK
+2025-08-05 14:55:50, MOVE, v:1, k:sudoku, mode:BACK
+2025-08-05 14:55:52, MOVE, v:1, k:permutacoes, mode:PICK
+2025-08-05 14:56:37, MOVE, v:1, k:permutacoes, mode:BACK
+2025-08-05 14:57:14, MOVE, v:1, k:sudoku, mode:PICK
+2025-08-05 15:01:19, MOVE, v:1, k:sudoku, mode:BACK
+2025-08-05 15:01:20, MOVE, v:1, k:sudoku, mode:PICK
+2025-08-05 17:17:30, MOVE, v:1, k:sudoku, mode:BACK
+2025-08-05 17:20:02, SELF, v:1, k:detonate
+2025-08-05 17:20:19, SELF, v:1, k:detonate, edge:4
+2025-08-05 17:21:32, MOVE, v:1, k:sudoku, mode:PICK
+2025-08-05 17:43:44, EXEC, v:1, k:sudoku, mode:FULL, rate:100, size:97
+2025-08-05 17:43:47, MOVE, v:1, k:sudoku, mode:BACK
+2025-08-05 17:43:56, SELF, v:1, k:sudoku, rate:100, flow:4, edge:4
+2025-08-05 17:44:01, SELF, v:1, k:sudoku, rate:100, flow:4, edge:3
+2025-08-05 18:50:35, MOVE, v:1, k:vetbuild, mode:PICK

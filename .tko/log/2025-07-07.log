@@ -1,0 +1,8 @@
+2025-07-07 11:40:00, SELF, v:1, k:battleship
+2025-07-07 11:40:08, SELF, v:1, k:battleship, rate:100, flow:6, edge:5
+2025-07-07 12:02:48, MOVE, v:1, k:caminho, mode:PICK
+2025-07-07 12:39:44, MOVE, v:1, k:caminho, mode:BACK
+2025-07-07 12:41:38, MOVE, v:1, k:wordsearch, mode:PICK
+2025-07-07 12:42:18, MOVE, v:1, k:wordsearch, mode:BACK
+2025-07-07 12:44:10, MOVE, v:1, k:pilha, mode:PICK
+2025-07-07 12:48:04, MOVE, v:1, k:pilha, mode:BACK

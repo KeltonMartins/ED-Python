@@ -1,0 +1,22 @@
+2025-07-20 10:18:03, MOVE, v:1, k:chaves, mode:PICK
+2025-07-20 10:18:08, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:53
+2025-07-20 10:24:59, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:53
+2025-07-20 10:25:02, EXEC, v:1, k:chaves, mode:LOCK, rate:0
+2025-07-20 11:07:17, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:67
+2025-07-20 11:07:36, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:67
+2025-07-20 11:08:10, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:67
+2025-07-20 11:11:32, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:68
+2025-07-20 11:11:34, EXEC, v:1, k:chaves, mode:LOCK, rate:0
+2025-07-20 11:12:12, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:68
+2025-07-20 11:13:50, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:68
+2025-07-20 11:19:37, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:68
+2025-07-20 11:20:58, EXEC, v:1, k:chaves, mode:LOCK, rate:0, size:67
+2025-07-20 11:21:01, EXEC, v:1, k:chaves, mode:LOCK, rate:0
+2025-07-20 11:21:07, EXEC, v:1, k:chaves, mode:FULL, rate:0
+2025-07-20 11:21:10, EXEC, v:1, k:chaves, mode:FULL, rate:0
+2025-07-20 11:21:41, EXEC, v:1, k:chaves, mode:FULL, rate:0, size:67
+2025-07-20 11:21:54, EXEC, v:1, k:chaves, mode:FULL, rate:0, size:67
+2025-07-20 11:22:13, EXEC, v:1, k:chaves, mode:FULL, rate:0, size:67
+2025-07-20 11:22:21, EXEC, v:1, k:chaves, mode:FULL, rate:100, size:67
+2025-07-20 11:22:22, MOVE, v:1, k:chaves, mode:BACK
+2025-07-20 11:23:00, SELF, v:1, k:chaves, rate:100, flow:6, edge:5

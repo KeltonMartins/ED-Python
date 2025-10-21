@@ -1,0 +1,11 @@
+2025-08-07 22:35:05, MOVE, v:1, k:sudoku, mode:PICK
+2025-08-07 22:35:06, MOVE, v:1, k:sudoku, mode:BACK
+2025-08-07 22:35:14, SELF, v:1, k:sudoku, rate:100, flow:4, edge:3
+2025-08-07 23:04:57, MOVE, v:1, k:cercado, mode:DOWN
+2025-08-07 23:04:57, MOVE, v:1, k:cercado, mode:PICK
+2025-08-07 23:06:25, MOVE, v:1, k:cercado, mode:BACK
+2025-08-07 23:06:51, SELF, v:1, k:cercado, rate:100, flow:6, edge:5
+2025-08-07 23:06:52, MOVE, v:1, k:cercado, mode:PICK
+2025-08-07 23:06:56, EXEC, v:1, k:cercado, mode:FULL, rate:33, size:29
+2025-08-07 23:06:58, MOVE, v:1, k:cercado, mode:BACK
+2025-08-07 23:07:04, SELF, v:1, k:cercado, rate:33, edge:4

@@ -1,0 +1,69 @@
+2025-07-09 11:18:07, MOVE, v:1, k:caminho, mode:PICK
+2025-07-09 12:19:58, EXEC, v:1, k:caminho, mode:FULL, rate:0, size:151
+2025-07-09 12:20:02, EXEC, v:1, k:caminho, mode:FULL, rate:0
+2025-07-09 12:20:33, EXEC, v:1, k:caminho, mode:FULL, rate:0, size:153
+2025-07-09 12:20:34, EXEC, v:1, k:caminho, mode:FULL, rate:0
+2025-07-09 12:20:35, EXEC, v:1, k:caminho, mode:FULL, rate:0
+2025-07-09 12:20:45, EXEC, v:1, k:caminho, mode:FULL, rate:0, size:150
+2025-07-09 12:21:50, EXEC, v:1, k:caminho, mode:FULL, rate:0, size:150
+2025-07-09 12:21:52, EXEC, v:1, k:caminho, mode:FULL, rate:0
+2025-07-09 12:21:54, EXEC, v:1, k:caminho, mode:FULL, rate:0
+2025-07-09 12:22:02, EXEC, v:1, k:caminho, mode:FULL, rate:0, size:150
+2025-07-09 12:23:34, MOVE, v:1, k:caminho, mode:PICK
+2025-07-09 12:25:05, MOVE, v:1, k:caminho, mode:PICK
+2025-07-09 12:25:06, EXEC, v:1, k:caminho, mode:FULL, rate:0, size:148
+2025-07-09 12:25:38, EXEC, v:1, k:caminho, mode:FULL, rate:100, size:149
+2025-07-09 12:25:40, MOVE, v:1, k:caminho, mode:BACK
+2025-07-09 12:25:54, SELF, v:1, k:caminho, rate:100, flow:2, edge:4
+2025-07-09 12:27:45, MOVE, v:1, k:serial, mode:PICK
+2025-07-09 12:30:17, EXEC, v:1, k:serial, mode:FULL, rate:100
+2025-07-09 12:30:24, MOVE, v:1, k:serial, mode:BACK
+2025-07-09 12:30:50, MOVE, v:1, k:rotacoes, mode:DOWN
+2025-07-09 12:30:57, MOVE, v:1, k:rotacoes, mode:PICK
+2025-07-09 12:44:59, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:18
+2025-07-09 12:45:00, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:45:10, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:45:19, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:45:20, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:19
+2025-07-09 12:45:32, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:19
+2025-07-09 12:46:44, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:19
+2025-07-09 12:46:45, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:48:29, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:19
+2025-07-09 12:48:46, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:19
+2025-07-09 12:48:48, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:48:48, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:48:49, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:48:58, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:19
+2025-07-09 12:48:59, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:49:00, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:49:00, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:49:22, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:19
+2025-07-09 12:49:23, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:49:23, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:49:26, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:54:03, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:26
+2025-07-09 12:54:05, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:54:23, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:27
+2025-07-09 12:54:23, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:27
+2025-07-09 12:55:25, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:29
+2025-07-09 12:55:26, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:55:26, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:55:27, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:55:34, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:29
+2025-07-09 12:55:35, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:29
+2025-07-09 12:55:35, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:29
+2025-07-09 12:55:51, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:29
+2025-07-09 12:55:52, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:55:53, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:56:02, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:29
+2025-07-09 12:56:19, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:30
+2025-07-09 12:56:20, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:56:39, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:30
+2025-07-09 12:56:50, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0, size:30
+2025-07-09 12:56:51, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:56:51, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:57:00, EXEC, v:1, k:rotacoes, mode:LOCK, rate:0
+2025-07-09 12:57:01, EXEC, v:1, k:rotacoes, mode:FULL, rate:0
+2025-07-09 12:57:20, EXEC, v:1, k:rotacoes, mode:FULL, rate:100, size:30
+2025-07-09 12:57:25, MOVE, v:1, k:rotacoes, mode:BACK
+2025-07-09 12:57:30, SELF, v:1, k:rotacoes, rate:100, flow:6, edge:5
