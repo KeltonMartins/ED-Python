@@ -1,0 +1,19 @@
+{
+    "patches": [
+        {
+            "label": "2025-10-21_15-02-10",
+            "content": "@@ -1,61 +0,0 @@\n-p = (int(input()) + int(input()) + int(input())) / 2%0Aprint(p)\n",
+            "lines": "0"
+        },
+        {
+            "label": "2025-10-21_23-26-45",
+            "content": "@@ -1,30 +1,11 @@\n-import math%0Aa, b, c = floa\n+p = (in\n t(in\n@@ -2,38 +2,37 @@\n  = (int(input())\n-, floa\n+ + in\n t(input()), floa\n@@ -29,14 +29,13 @@\n t())\n-, floa\n+ + in\n t(in\n@@ -44,77 +44,18 @@\n t())\n-%0Ap = (a + b + c) / 2%0Aa = math.sqrt(p*(p-a)*(p-b)*(p-c))%0Aprint(f%22%7Ba:.2f%7D%22\n+) / 2%0Aprint(p\n )\n",
+            "lines": "2"
+        },
+        {
+            "label": "2025-10-21_23-32-00",
+            "content": "import math\na, b, c = float(input()), float(input()), float(input())\np = (a + b + c) / 2\na = math.sqrt(p*(p-a)*(p-b)*(p-c))\nprint(f\"{a:.2f}\")",
+            "lines": "5"
+        }
+    ]
+}

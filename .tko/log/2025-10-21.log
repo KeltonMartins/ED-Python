@@ -1,0 +1,11 @@
+2025-10-21 15:01:46, MOVE, v:1, k:ed@pintando, mode:DOWN
+2025-10-21 15:01:48, MOVE, v:1, k:ed@pintando, mode:PICK
+2025-10-21 15:02:10, EXEC, v:1, k:ed@pintando, mode:FULL, rate:0, size:0
+2025-10-21 15:03:01, MOVE, v:1, k:ed@pintando, mode:BACK
+2025-10-21 15:03:39, SELF, v:1, k:ed@pintando, alone:9
+2025-10-21 23:24:17, MOVE, v:1, k:ed@pintando, mode:PICK
+2025-10-21 23:26:45, EXEC, v:1, k:ed@pintando, mode:LOCK, rate:0, size:2
+2025-10-21 23:32:00, EXEC, v:1, k:ed@pintando, mode:LOCK, rate:100, size:5
+2025-10-21 23:32:03, EXEC, v:1, k:ed@pintando, mode:FULL, rate:100
+2025-10-21 23:34:00, MOVE, v:1, k:ed@pintando, mode:BACK
+2025-10-21 23:34:30, SELF, v:1, k:ed@pintando, rate:100, alone:10

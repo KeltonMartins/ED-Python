@@ -1,86 +1,25 @@
-remote: https://github.com/qxcodeed/arcade/blob/master/Readme.md
-version: 0.0.1
-database: database
+version: '0.2'
+sources:
+- database: local
+  link: ''
+  cache_path: ''
+  cache_timestamp: ''
+  filters: null
+- database: ed
+  link: https://github.com/qxcodeed/arcade/blob/master/Readme.md
+  cache_path: /workspaces/ED-Python/.tko/cache/ed.md
+  cache_timestamp: '2025-10-21 23:24:14'
+  filters: null
 expanded:
-- local_task_cluster_sem_quest
-- main-quest
+- ed@main-quest
+- ed@revisão
 tasks:
-  pintando: '{rate:100, flow:4, edge:5}'
-  mumia: '{rate:100, flow:5, edge:5}'
-  fuga: '{rate:100, flow:5, edge:5}'
-  pedra: '{rate:100, flow:4, edge:5}'
-  casais: '{rate:100, flow:5, edge:5}'
-  baruel: '{rate:100, flow:5, edge:5}'
-  gomos: '{rate:100, flow:4, edge:5}'
-  analise: '{rate:100, flow:6, edge:5}'
-  princesa: '{rate:100, flow:6, edge:5}'
-  apagando: '{rate:100, flow:5, edge:4}'
-  manipulacao: '{rate:100, flow:6, edge:5}'
-  especiais: '{rate:100, flow:2, edge:4}'
-  rotacoes: '{rate:100, flow:6, edge:5}'
-  alternando: '{rate:100, flow:2, edge:3}'
-  crec_view: '{rate:100, flow:6, edge:5}'
-  rec_read: '{rate:100, flow:6, edge:5}'
-  triangulo: '{rate:100, flow:5, edge:4, neat:5, cool:5, easy:2}'
-  treinando: '{rate:100, flow:4, edge:4, neat:2, cool:5, easy:3}'
-  resto: '{rate:100, flow:6, edge:5, neat:5, cool:5, easy:1}'
-  mdc: '{rate:100, flow:6, edge:5}'
-  eh_primo: '{rate:100, flow:6, edge:5}'
-  enesimo: '{rate:100, flow:6, edge:5}'
-  fractais: '{rate:70, flow:4, edge:3, idx:1}'
-  vetequals: '{rate:100, flow:6, edge:5}'
-  priminhos: '{rate:100, flow:6, edge:5}'
-  dfs_bfs_bak: '{rate:100, flow:6, edge:5}'
-  queimada: '{rate:100, flow:6, edge:5, neat:3, cool:4, easy:3}'
-  ilhas: '{rate:100, flow:6, edge:5}'
-  cercado: '{rate:33, edge:4}'
-  labirinto: '{rate:100, flow:6, edge:5, neat:3, cool:4, easy:4}'
-  pintura: '{rate:100, flow:6, edge:5}'
-  longest: '{rate:90, flow:2, edge:4}'
-  battleship: '{rate:100, flow:6, edge:5}'
-  rotten: '{rate:100, flow:4, edge:4}'
-  caminho: '{rate:100, flow:2, edge:4}'
-  detonate: '{edge:4}'
-  wordsearch: '{rate:50, flow:6, edge:5}'
-  subset_sum: '{rate:100, flow:3, edge:4}'
-  distancia: '{rate:100, flow:5, edge:4}'
-  permutacoes: '{rate:100, flow:4, edge:4}'
-  sudoku: '{rate:100, flow:4, edge:3}'
-  vetbuild: '{rate:100, flow:5, edge:5, neat:3, cool:3, easy:3}'
-  setbuild: '{rate:100, flow:4, edge:4}'
-  bettersearch: '{rate:100, flow:6, edge:5}'
-  multiset: '{rate:100, flow:5, edge:5}'
-  magicsearch: '{rate:100, flow:4, edge:5}'
-  iterador: '{rate:100, flow:3, edge:4}'
-  lista_d1: '{rate:100, flow:3, edge:4}'
-  lista_d2: '{rate:100, flow:5, edge:5}'
-  lista_d4: '{rate:100, flow:5, edge:5}'
-  prin_list1: '{rate:100, flow:6, edge:5}'
-  lista_d3: '{rate:100, flow:2, edge:4}'
-  prin_list2: '{rate:100, flow:5, edge:4}'
-  editorint: '{rate:100, flow:4, edge:4}'
-  bufferring: '{rate:100, flow:6, edge:5}'
-  fila_enc: '{rate:100, flow:4, edge:4}'
-  pilha: '{rate:100, flow:6, edge:5}'
-  chaves: '{rate:100, flow:6, edge:5}'
-  queimando: '{rate:100, flow:6, edge:5}'
-  pilhado: '{rate:100, flow:4, edge:4}'
-  serial: '{rate:100, flow:5, edge:4}'
-  formatada: '{rate:100, flow:6, edge:5}'
-  inverter: '{rate:100, flow:6, edge:5}'
-  clonar: '{rate:100, flow:6, edge:5}'
-  soma: '{rate:100, flow:6, edge:5}'
-  altura: '{rate:100, flow:2, edge:4}'
-  compare: '{rate:100, flow:6, edge:5}'
-  arvore-path: '{rate:100, flow:6, edge:5}'
-  bst_insert: '{rate:100, flow:6, edge:5}'
-  bst_serial: '{rate:100, flow:4, edge:4}'
-  bst_remove: '{rate:100, flow:4, edge:4}'
+  ed@pintando: '{rate:100, alone:10}'
 flags:
-  quests: 1
-  tracks: 1
+  quests: 0
+  tracks: 0
   tasks: 0
-  graph: 1
-  xray: 1
-lang: go
-index: busca-em-largura
+  graph: 0
+  xray: 0
+lang: py
+selected: ed@pintando
